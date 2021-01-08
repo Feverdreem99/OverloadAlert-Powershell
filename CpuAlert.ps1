@@ -1,0 +1,1 @@
+New-BurntToastNotification -Text "Alerta de uso de CPU", "El uso del CPU sobrepasa el 80%" -AppLogo cpuusage.png
